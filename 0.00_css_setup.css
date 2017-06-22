@@ -1,0 +1,19 @@
+/*Selector{
+	Property:Value;
+}<--- Is all the Declaration*/
+
+.wrapper{
+	margin: 10px;
+}
+body{
+	background-color:#D3D3D3;
+}
+h1{
+	color: #FF0000;
+}
+h3{
+	color:#0000ff;
+}
+li{
+	color:#00FF00;
+}
